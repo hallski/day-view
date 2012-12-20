@@ -10,6 +10,6 @@ build/*
 .idea
 
 # osx noise
-.DS_itore
+.DS_store
 profile
 
