@@ -1,0 +1,15 @@
+#### `.gitignore`
+# xcode noise
+build/*
+*.mode1v3
+*.pbxuser
+*.xcworkspace
+*/xcuserdata
+
+# AppCode
+.idea
+
+# osx noise
+.DS_itore
+profile
+
